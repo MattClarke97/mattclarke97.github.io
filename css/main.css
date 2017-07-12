@@ -16,7 +16,7 @@ color: #123412;
   -webkit-transform: translate(-50%,-50%);
 }
 
-h1 a {
+ul a {
   color: #123412;
   font-size: 2em;
   text-decoration: none;
